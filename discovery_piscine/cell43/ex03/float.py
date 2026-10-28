@@ -1,4 +1,4 @@
-num = input("Give me a number:")
+num = input("Give me a number: ")
 
 if float(num) == int(float(num)):
     print("This number is an integer")
